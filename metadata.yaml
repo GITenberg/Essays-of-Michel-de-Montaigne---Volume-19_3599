@@ -1,0 +1,45 @@
+_repo: Essays-of-Michel-de-Montaigne---Volume-19_3599
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cotton, Charles
+    birthdate: 1630
+    deathdate: 1687
+    gutenberg_agent_id: '1231'
+    url: http://www.gutenberg.org/2009/agents/1231
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Cotton
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montaigne, Michel Eyquem de
+    - Montagne, Michel de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+  editor:
+    agent_name: Hazlitt, William Carew
+    alias: Hazlitt, W. Carew (William Carew)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '4300'
+    url: http://www.gutenberg.org/2009/agents/4300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French essays -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Of Experience.
+title: Essays of Michel de Montaigne — Volume 19
+url: http://www.gutenberg.org/ebooks/3599
