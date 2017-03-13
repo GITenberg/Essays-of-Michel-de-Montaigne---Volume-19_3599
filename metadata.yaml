@@ -1,5 +1,5 @@
 _repo: Essays-of-Michel-de-Montaigne---Volume-19_3599
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Cotton, Charles
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1231'
     url: http://www.gutenberg.org/2009/agents/1231
     wikipedia: http://en.wikipedia.org/wiki/Charles_Cotton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4300
     wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3599#Essays-of-Michel-de-Montaigne---Volume-19
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
